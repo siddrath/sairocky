@@ -11,15 +11,15 @@ random
 requests
 aiohttp
 re
-from random import randint
-from random import choice
+random,randint
+random,choice
 asyncio
 os
 PIL import Image, ImageDraw, ImageFont
 io
-from paginator import Paginator
-import inspect
-from tabulate import tabulate
+paginator
+inspect
+tabulate 
 csv
 ast
 re
