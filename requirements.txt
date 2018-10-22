@@ -7,21 +7,4 @@ urbandictionary
 googletrans
 pokedex.py
 pillow
-random
-requests
-aiohttp
-re
-random,randint
-random,choice
-asyncio
-os
-PIL import Image, ImageDraw, ImageFont
-io
-paginator
-inspect
-tabulate 
-csv
-ast
-re
-psutil
-json
+
