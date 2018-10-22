@@ -7,3 +7,22 @@ urbandictionary
 googletrans
 pokedex.py
 pillow
+import discord
+import random
+import requests
+import aiohttp
+import re
+from random import randint
+from random import choice
+import asyncio
+import os
+from PIL import Image, ImageDraw, ImageFont
+import io
+from paginator import Paginator
+import inspect
+from tabulate import tabulate
+import csv
+import ast
+import re
+import psutil
+import json
